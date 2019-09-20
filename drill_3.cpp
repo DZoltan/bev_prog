@@ -7,8 +7,7 @@ int main()
 string first_name;
 string friend_name;
 int age = 0;
-char friend_sex = 'f' ;
-//string simple_error = "Viccelsz! \n";
+char friend_sex = 0 ;
 
 cout << "Kinek szeretnél írni? \n";
 cin >> first_name ;
